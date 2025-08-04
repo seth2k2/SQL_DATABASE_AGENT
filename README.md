@@ -2,6 +2,8 @@
 
 A Streamlit-based application for interacting with SQL databases, developed by Seniru Epasinghe.
 
+![Program Interface](UI.png)
+
 ## Features
 
 - Natural language to SQL query conversion
