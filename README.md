@@ -1,7 +1,7 @@
 # SQL Database Assistant
 
 A Streamlit-based application for interacting with SQL databases, developed by Seniru Epasinghe.
-![Database Structure](database.png)
+
 ## Features
 
 - Natural language to SQL query conversion
@@ -32,6 +32,8 @@ pip install -r requirements.txt
 
 ### Running the Application
 streamlit run streamlit_app.py
+
+![Database Structure](database.png)
 
 ### Database Configuration
 - Azure SQL Database
